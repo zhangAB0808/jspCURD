@@ -30,7 +30,7 @@
         }
 
         td, th {
-            width: 150px;
+            width: 180px;
             text-align: center;
             border: 1px solid black;
         }
@@ -53,7 +53,7 @@
 
         .b1 {
             position: absolute;
-            right: 300px;
+            right: 200px;
             background-color: #0088ff;
             width: 80px;
             height: 30px;
@@ -72,7 +72,7 @@
 
         div.d1 {
             position: absolute;
-            left: 260px;
+            left: 200px;
         }
 
         .d2 {
